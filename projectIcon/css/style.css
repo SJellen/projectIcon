@@ -1,0 +1,155 @@
+
+html {
+    height: 100%;
+    background: rgb(8,8,41);
+    background: linear-gradient(148deg, rgba(8,8,41,1) 20%, rgba(20,35,88,1) 81%, rgba(29,60,138,1) 100%);
+  }
+  
+    #git {
+      float: right;
+      color: white;
+      line-height: 20px;
+      padding-right: 5px;
+    }
+    
+  
+    .cStudy {
+      
+      display: inline-block;
+      position: relative;
+      width: 400px;
+      min-width: 400px;
+      height: 400px;
+      border-radius: 30px;
+      overflow:hidden;
+      box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.3);
+      margin: 30px;
+    }
+  
+    .cSimg {
+      position: absolute;
+      height: 90%;
+      width: 100%;
+    }
+  
+    .cSimg:hover {
+      opacity: 0; 
+    }
+  
+    #active {
+      width: 400px;
+      height: 300px; 
+    }
+  
+  
+    .project-description-box {
+    border-top: 1px solid orange;
+    background-image: linear-gradient(300deg , black,blue);
+    border-radius: 30px;
+    position: absolute;
+    top: 55%;
+    left: -5px;
+    height: 65%;
+    width: 108%;
+    transform: skew(10deg, -9deg);
+    }
+  
+    .lang-logo  {
+      
+      
+      height: 80px;
+      width: 80px;
+      border-radius: 20px;
+      background-color: #fff;
+      position: absolute;
+      bottom: 30%;
+      left: 30px;
+      overflow:hidden;
+      box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.7);
+    }
+  
+    #codeBox {
+      border-radius: 5px;
+      background-color: black;
+      padding: 5px;
+    }
+  
+    .project-description {
+      text-shadow: 1px 1px black;
+      position: absolute;
+      color: #fff;
+      font-weight: 900;
+      left: 150px;
+      bottom: 20%;
+    }
+  
+    #charWord {
+     color: orange;
+     text-shadow: 1px 1px black;
+    }
+  
+    .code-btn {
+      position: absolute;
+      color: #fff;
+      right: 30px;
+      bottom: 10%;
+      padding: 10px 20px;
+      
+      
+    }
+  
+    .code-btn a {
+      color: #fff;
+      
+    }
+  
+  #live, #sample {
+    box-shadow: 1px 1px black;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: orange;
+    color: black;
+    padding: 2.5px;
+  
+  }
+  
+  #live:hover {
+    background-color: yellow;
+    color: black;
+    transition: ease-in 1500ms;
+  }
+  
+  #sample:hover {
+    background-color: yellow;
+    color: black;
+    transition: ease-in 1500ms;
+  }
+  
+  
+  .langLogo {
+    position: absolute;
+    display: inline-block;
+    
+    color: #fff;
+    left: 30px;
+    bottom: 10%;
+  }
+  
+  #htmlLogo {
+    color: #E44D26; 
+  }
+  
+  #cssLogo {
+    color: #264de4; 
+  }
+  
+  #jsLogo {
+    color: #F0DB4F; 
+  }
+  
+  #b4Logo {
+    background: -webkit-gradient(linear, left bottom, right top, from(#080135), to(#602C50));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+  }
+  
