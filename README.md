@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
-![screenshot](https://raw.githubusercontent.com/SJellen/projecticon/master/resources/screenshot.png)
+![screenshot](https://github.com/SJellen/projectIcon/blob/master/projectIcon/resources/screenshot.png)
 
 > I reworked a CSS card design by Cornea Florin https://codepen.io/FlorinCornea/pen/KKwMeqd.\
 I was planning on eventually using this for my projects on my portfolio.
